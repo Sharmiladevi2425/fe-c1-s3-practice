@@ -1,0 +1,33 @@
+body{
+    background-color:#262626;
+    
+}
+img{
+    height: 170px;
+    width: 250px;
+}
+h1 {
+    color:whitesmoke;
+    font-size:40px;
+    font-family:serif;
+    border-bottom:2px solid whitesmoke;
+    padding-bottom:10px;
+    text-align:center
+
+}
+h2 {
+    color:whitesmoke;
+    padding-left:10px;
+    font-family:serif;
+    text-align:left
+
+}
+p{
+    color: yellowgreen;
+    padding-left:10px;
+    font-family:Fraunces;
+    text-align:left
+}
+.center{
+    text-align: center;
+}
